@@ -7,5 +7,10 @@
       "matches": ["https://www.facebook.com/*"],
       "js": ["jquery-3.1.1.min.js", "content.js"]
     }
-  ]
+  ],
+  "icons": {
+            "16": "icon16.png",
+            "128": "icon128.png"
+          },
+  "web_accessible_resources": ["words/word_collection.txt"]
 }
