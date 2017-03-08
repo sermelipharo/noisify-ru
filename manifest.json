@@ -1,6 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Noisify",
+  "description": "Add noise to your Facebook activity!",
+  "author": "Cathy Deng",
   "version": "0.1",
   "content_scripts": [
     {
@@ -8,6 +10,7 @@
       "js": ["jquery-3.1.1.min.js", "content.js"]
     }
   ],
+  "homepage_url": "https://www.buzzfeed.com/openlab",
   "icons": {
             "16": "icon16.png",
             "128": "icon128.png"
