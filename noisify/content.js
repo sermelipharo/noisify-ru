@@ -6,7 +6,7 @@ var random_terms = []
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: chrome.extension.getURL("words/word_collection.txt"),
+        url: chrome.extension.getURL("word_collection.txt"),
         dataType: "text",
         success: function(data) {
           random_terms = data.split("\n");

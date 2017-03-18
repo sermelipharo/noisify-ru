@@ -15,5 +15,5 @@
             "16": "icon16.png",
             "128": "icon128.png"
           },
-  "web_accessible_resources": ["words/word_collection.txt"]
+  "web_accessible_resources": ["word_collection.txt"]
 }
