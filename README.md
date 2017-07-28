@@ -1,2 +1,2 @@
 # noisify
-a browser extension for adding noise to your data trails
+a Chrome extension that adds noise to your data trails
